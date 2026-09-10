@@ -1,5 +1,4 @@
 (sym_lib_table
 	(version 7)
 	(lib (name "E73-2G4M04S1B") (type "KiCad") (uri "C:/Users/CAS/Downloads/E73-2G4M04S1B.kicad_sym") (options "") (descr ""))
-	(lib (name "AZDelivery") (type "KiCad") (uri "C:/Users/CAS/Downloads/KiCAD-AZDelivery-main/AZDelivery.kicad_sym") (options "") (descr ""))
 )

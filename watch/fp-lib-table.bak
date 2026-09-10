@@ -4,5 +4,4 @@
 	(lib (name "AZDelivery") (type "KiCad") (uri "C:/Users/CAS/Downloads/KiCAD-AZDelivery-main/AZDelivery.pretty") (options "") (descr ""))
 	(lib (name "Library") (type "KiCad") (uri "C:/Users/CAS/Documents/kicad_mod/Library.pretty") (options "") (descr ""))
 	(lib (name "mylib") (type "KiCad") (uri "C:/Users/CAS/Documents/kicad_mod/mylib.pretty") (options "") (descr ""))
-	(lib (name "mylib") (type "KiCad") (uri "C:/Users/CAS/Documents/kicad_mod/mylib.pretty") (options "") (descr ""))
 )
