@@ -809,7 +809,7 @@
         "uuid": "051ebb8c-0d2e-4728-929a-f4536dd24c29"
       }
     ],
-    "used_designators": "#FLG1-2,#PWR1-22,BT1,C1-8,DS1,J1-4,Q1,R1-7,SW1-2,U1-3",
+    "used_designators": "#FLG1-2,#PWR1-24,BT1,BZ1,C1-10,DS1,J1-4,Q1-2,R1-9,SW1-2,U1-3",
     "variants": []
   },
   "sheets": [
